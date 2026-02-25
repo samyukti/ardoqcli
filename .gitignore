@@ -32,7 +32,7 @@ go.work.sum
 # .vscode/
 
 # binary
-ardoqcli
+/ardoqcli
 
 # goreleaser
 dist/
