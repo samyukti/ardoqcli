@@ -7,6 +7,12 @@ Thin JSON-passthrough wrapper — pipe output to `jq`, script with shell, automa
 ## Install
 
 ```sh
+brew install samyukti/tap/ardoqcli
+```
+
+Or with Go:
+
+```sh
 go install com.samyukti.ardoqcli@latest
 ```
 
